@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/igappe/static/css/main.e6c13ad2.css",
+    "main.js": "/igappe/static/js/main.f5c08daa.js",
+    "static/js/453.2483f6a2.chunk.js": "/igappe/static/js/453.2483f6a2.chunk.js",
+    "index.html": "/igappe/index.html",
+    "main.e6c13ad2.css.map": "/igappe/static/css/main.e6c13ad2.css.map",
+    "main.f5c08daa.js.map": "/igappe/static/js/main.f5c08daa.js.map",
+    "453.2483f6a2.chunk.js.map": "/igappe/static/js/453.2483f6a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f5c08daa.js"
+  ]
+}
