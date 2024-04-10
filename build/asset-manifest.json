@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/igappe/static/css/main.e6c13ad2.css",
-    "main.js": "/igappe/static/js/main.f5c08daa.js",
-    "static/js/453.2483f6a2.chunk.js": "/igappe/static/js/453.2483f6a2.chunk.js",
+    "main.css": "/igappe/static/css/main.7f651779.css",
+    "main.js": "/igappe/static/js/main.1e063adb.js",
+    "static/media/bg_dot.jpeg": "/igappe/static/media/bg_dot.4801ecb12e1528beabce.jpeg",
     "index.html": "/igappe/index.html",
-    "main.e6c13ad2.css.map": "/igappe/static/css/main.e6c13ad2.css.map",
-    "main.f5c08daa.js.map": "/igappe/static/js/main.f5c08daa.js.map",
-    "453.2483f6a2.chunk.js.map": "/igappe/static/js/453.2483f6a2.chunk.js.map"
+    "main.7f651779.css.map": "/igappe/static/css/main.7f651779.css.map",
+    "main.1e063adb.js.map": "/igappe/static/js/main.1e063adb.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.f5c08daa.js"
+    "static/css/main.7f651779.css",
+    "static/js/main.1e063adb.js"
   ]
 }
